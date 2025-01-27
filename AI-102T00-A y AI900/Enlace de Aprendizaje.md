@@ -22,3 +22,5 @@ Modulo 3 ⮕ https://learn.microsoft.com/es-mx/training/paths/explore-natural-la
 Modulo 4 ⮕ https://learn.microsoft.com/es-mx/training/paths/document-intelligence-knowledge-mining/
 
 Modulo 5 ⮕ https://learn.microsoft.com/es-mx/training/paths/introduction-generative-ai/
+
+https://platform.openai.com/tokenizer
