@@ -1,0 +1,67 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ingeniero en IA", "Ingeniero en IA", "{54D8A113-CE41-67C4-900E-5D9395E7F804}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practicas-AI-102T00", "Practicas-AI-102T00", "{10457E5A-1364-5006-E9E6-760EA3A29024}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Ejercicio Uso de servicios de Azure AI", "1. Ejercicio Uso de servicios de Azure AI", "{F0D1B23A-1CA0-CC49-0CCD-6AC25A2958B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mslearn-ai-services", "mslearn-ai-services", "{07201F87-7F55-C14E-1316-A0B6A24195B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labfiles", "Labfiles", "{DCFE2069-9345-BF2C-FE9F-98CE306C558A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-use-azure-ai-services", "01-use-azure-ai-services", "{6A1F715E-3172-A882-8814-EB61A4814BD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C-Sharp", "C-Sharp", "{22764B5F-134E-3EE7-1947-F5C2636CF4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_client", "Ingeniero en IA\Practicas-AI-102T00\1. Ejercicio Uso de servicios de Azure AI\mslearn-ai-services\Labfiles\01-use-azure-ai-services\C-Sharp\rest-client\rest_client.csproj", "{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdk-client", "Ingeniero en IA\Practicas-AI-102T00\1. Ejercicio Uso de servicios de Azure AI\mslearn-ai-services\Labfiles\01-use-azure-ai-services\C-Sharp\sdk-client\sdk-client.csproj", "{252D9097-5DDB-08B4-6681-C162FC452086}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-ai-services-security", "02-ai-services-security", "{B298FC5F-79C5-457A-53DE-0EA45FBBC4C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C-Sharp", "C-Sharp", "{70E5DD41-3A81-4F8C-434E-C49CF0C826CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyvault_client", "Ingeniero en IA\Practicas-AI-102T00\1. Ejercicio Uso de servicios de Azure AI\mslearn-ai-services\Labfiles\02-ai-services-security\C-Sharp\keyvault_client\keyvault_client.csproj", "{A2C86600-918A-6F7A-A358-D2F00B77156B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252D9097-5DDB-08B4-6681-C162FC452086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252D9097-5DDB-08B4-6681-C162FC452086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252D9097-5DDB-08B4-6681-C162FC452086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252D9097-5DDB-08B4-6681-C162FC452086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C86600-918A-6F7A-A358-D2F00B77156B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C86600-918A-6F7A-A358-D2F00B77156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C86600-918A-6F7A-A358-D2F00B77156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C86600-918A-6F7A-A358-D2F00B77156B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10457E5A-1364-5006-E9E6-760EA3A29024} = {54D8A113-CE41-67C4-900E-5D9395E7F804}
+		{F0D1B23A-1CA0-CC49-0CCD-6AC25A2958B5} = {10457E5A-1364-5006-E9E6-760EA3A29024}
+		{07201F87-7F55-C14E-1316-A0B6A24195B4} = {F0D1B23A-1CA0-CC49-0CCD-6AC25A2958B5}
+		{DCFE2069-9345-BF2C-FE9F-98CE306C558A} = {07201F87-7F55-C14E-1316-A0B6A24195B4}
+		{6A1F715E-3172-A882-8814-EB61A4814BD9} = {DCFE2069-9345-BF2C-FE9F-98CE306C558A}
+		{22764B5F-134E-3EE7-1947-F5C2636CF4DE} = {6A1F715E-3172-A882-8814-EB61A4814BD9}
+		{EB8AC78B-E8B9-6ECA-EC4F-1C72B8CB1FCF} = {22764B5F-134E-3EE7-1947-F5C2636CF4DE}
+		{252D9097-5DDB-08B4-6681-C162FC452086} = {22764B5F-134E-3EE7-1947-F5C2636CF4DE}
+		{B298FC5F-79C5-457A-53DE-0EA45FBBC4C0} = {DCFE2069-9345-BF2C-FE9F-98CE306C558A}
+		{70E5DD41-3A81-4F8C-434E-C49CF0C826CE} = {B298FC5F-79C5-457A-53DE-0EA45FBBC4C0}
+		{A2C86600-918A-6F7A-A358-D2F00B77156B} = {70E5DD41-3A81-4F8C-434E-C49CF0C826CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A72575-D9B0-4E08-B98E-C5C4FDFE45F8}
+	EndGlobalSection
+EndGlobal
